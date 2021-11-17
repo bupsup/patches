@@ -92,9 +92,12 @@ img {
     width: 100%;
     height: 100%;
 }
-section>img {
+section.patch>img {
     width: 40%;
     max-width: 500px;
+}
+.map-image {
+    width: 100%;
 }
 .section-info {
     display: block;
