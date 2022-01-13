@@ -104,13 +104,6 @@ section.patch>img {
     margin-right: 2rem;
 }
 
-li:before {
-    margin: 0 10px;
-    content:">";
-    color: green;
-    font-weight: 700;
-}
-
 #notification {
     background-color: red;
     color: white;
@@ -121,6 +114,13 @@ li:before {
     position: fixed;
     top:0;
     z-index: 3;
+}
+
+li:before {
+    margin: 0 10px;
+    content:">";
+    color: green;
+    font-weight: 700;
 }
 
 .light {
@@ -160,7 +160,7 @@ li:before {
     background-color: red;
     color: white;
     position: absolute;
-    top: 1rem;
+    top: 0.5rem;
     left: 1rem;
     width: 70px;
     height: 70px;
