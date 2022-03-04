@@ -175,9 +175,10 @@ li:before {
     transform: rotate(-10deg);
 }
 .sold-out {
-    background-color: #FFBA01;
-    width: 100px;
-    height: 100px;
+    background-color: #333;
+    color: red;
+    width: 90px;
+    height: 90px;
 }
 
 #FAQs>ul>li {
