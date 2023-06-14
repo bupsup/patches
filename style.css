@@ -1,4 +1,4 @@
-html {
+    html {
     scroll-behavior: smooth;
 }
 
@@ -250,7 +250,7 @@ li:before {
         margin: 0 auto;
     }
     section.patch>img {
-        width: 90%;
+        width: 100%;
         max-width: 500px;
     }
     .request {
