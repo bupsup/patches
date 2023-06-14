@@ -249,6 +249,10 @@ li:before {
         max-width: 500px;
         margin: 0 auto;
     }
+    section.patch>img {
+        width: 90%;
+        max-width: 500px;
+    }
     .request {
         margin-bottom: 2rem;
     }
